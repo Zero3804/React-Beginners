@@ -1,5 +1,6 @@
 //import { Fragment } from "react/jsx-runtime";
 import { useState } from "react";
+import styled from "styled-components";
 
 interface Props{
   items: string[];
